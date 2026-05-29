@@ -1,0 +1,48 @@
+{
+    "BFS (Search)": {
+        "HighRoller": {
+            "wins": 6,
+            "fastest_time": 26
+        },
+        "Roller-Delayed": {
+            "wins": 1,
+            "fastest_time": 44
+        }
+    },
+    "DFS (Search)": {
+        "HighRoller": {
+            "wins": 2,
+            "fastest_time": 30
+        },
+        "Roller-Delayed": {
+            "wins": 1,
+            "fastest_time": 72
+        }
+    },
+    "A* (Search)": {
+        "HighRoller": {
+            "wins": 2,
+            "fastest_time": 39
+        },
+        "Roller-Delayed": {
+            "wins": 1,
+            "fastest_time": 35
+        }
+    },
+    "Random Forest (Ensemble)": {
+        "HighRoller": {
+            "wins": 1,
+            "fastest_time": 89
+        }
+    },
+    "XGBoost (Ensemble)": {
+        "HighRoller": {
+            "wins": 1,
+            "fastest_time": 68
+        },
+        "Roller-Delayed": {
+            "wins": 3,
+            "fastest_time": 28
+        }
+    }
+}
